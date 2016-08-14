@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">自动化工具</string>
+    <string name="app_description1">监听本地通知</string>
+    <string name="app_description2">自动买基金</string>
+    <string name="app_description3">自动发消息</string>
+
+    <string name="accessibility_description1">监听本地通知</string>
+    <string name="accessibility_description2">购买基金</string>
+    <string name="accessibility_description3">监听微信消息</string>
+    <string name="RED_PACKET">: [微信红包]恭喜发财，大吉大利！</string>
+    <string name="hello">Hello World, JPush!</string>
+
+    <string name="error_style_empty">style不能为空</string>
+    <string name="error_alias_empty">alias不能为空</string>
+    <string name="error_tag_empty">tag不能为空</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+    <string name="error_network">网络连接异常,初始化失败 请检查网络！</string>
+    <string name="logining">程序在后台执行, 请查看日志！</string>
+    <string name="setting_su">设置成功</string>
+</resources>
